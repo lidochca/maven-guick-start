@@ -1,0 +1,15 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------< clinic.programming:clinic.programming.training >-----------
+[INFO] Building clinic.programming.training 1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ clinic.programming.training ---
+[INFO] clinic.programming:clinic.programming.training:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.8:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 1.488 s
+[INFO] Finished at: 2018-09-11T10:53:01+03:00
+[INFO] ------------------------------------------------------------------------
