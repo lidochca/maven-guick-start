@@ -7,6 +7,13 @@
   <groupId>clinic.programming</groupId>
   <artifactId>clinic.programming.training</artifactId>
   <version>1.0</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.apache.commons</groupId>
+  		<artifactId>commons-lang3</artifactId>
+  		<version>3.8</version>
+  	</dependency>
+  </dependencies>
   <build>
     <plugins>
       <plugin>
@@ -20,4 +27,5 @@
       </plugin>
     </plugins>
   </build>
+  
 </project>
